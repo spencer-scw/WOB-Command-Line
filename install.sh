@@ -3,6 +3,6 @@
 apt install python3-pip
 pip install bs4 requests
 
-chmod 
+chmod 755 wob api-wrapper.py
 
 cp wob api-wrapper.py /bin
