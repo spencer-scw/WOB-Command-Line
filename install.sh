@@ -5,4 +5,4 @@ pip install bs4 requests
 
 chmod 755 wob api-wrapper.py
 
-cp wob api-wrapper.py /bin
+cp -p wob api-wrapper.py /bin
